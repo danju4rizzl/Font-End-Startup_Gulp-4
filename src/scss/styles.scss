@@ -1,0 +1,10 @@
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
+@import 'colors';
+
+body {
+    color: grey;
+    background: $primary;
+    height: 400vh;
+}
